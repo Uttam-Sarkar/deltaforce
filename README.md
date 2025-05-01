@@ -158,6 +158,7 @@ git clone https://github.com/Learnathon-By-Geeky-Solutions/deltaforce.git
 
 # Navigate to the project directory
 cd deltaforce
+cd voice_bridge
 
 # Install dependencies
 flutter pub get
